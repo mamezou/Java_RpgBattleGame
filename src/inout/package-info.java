@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author mamezou
+ *
+ */
+package inout;
